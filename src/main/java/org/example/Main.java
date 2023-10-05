@@ -11,5 +11,7 @@ public class Main {
 
     public static void name(String name) {
         System.out.println(name + "1");
+        System.out.println("P");
+        System.out.println("W");
     }
 }
