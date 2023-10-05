@@ -10,6 +10,6 @@ public class Main {
     }
 
     public static void name(String name) {
-        System.out.println(name);
+        System.out.println(name + "1");
     }
 }
