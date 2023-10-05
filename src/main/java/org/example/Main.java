@@ -9,7 +9,7 @@ public class Main {
         name("Damian");
     }
 
-    public static void name(String name){
+    public static void name(String name) {
         System.out.println(name);
     }
 }
